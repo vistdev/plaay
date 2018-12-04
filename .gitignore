@@ -1,0 +1,13 @@
+# gitignore file
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+## Thumbnails
+._*
